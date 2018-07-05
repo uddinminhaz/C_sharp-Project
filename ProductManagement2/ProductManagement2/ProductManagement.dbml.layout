@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ProductManagement">
+  <DataContextMoniker Name="/ProductManagementDataContext" />
+  <nestedChildShapes>
+    <classShape Id="3fc08c2b-1d6b-4e86-bd52-c34af540f11e" isExpanded="false" absoluteBounds="0.5, 1.375, 2, 0.45">
+      <DataClassMoniker Name="/ProductManagementDataContext/Admin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="400d1abd-f16a-4eb9-915c-4c26cffdcdad" absoluteBounds="0.51500000000000012, 1.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a49e9b5f-eea1-489b-9acc-19a7129e4497" isExpanded="false" absoluteBounds="0.5, 2.25, 2, 0.45">
+      <DataClassMoniker Name="/ProductManagementDataContext/ProductInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f26d5235-a554-4a6c-af20-ef48efb744bc" absoluteBounds="0.51500000000000012, 2.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64529c74-7845-48ef-a304-07f07775ba4a" isExpanded="false" absoluteBounds="0.5, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/ProductManagementDataContext/CustomerInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e2009a71-26e5-400d-a716-9d1272c6558e" absoluteBounds="0.51499999999999968, 0.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="04b8bef7-9687-4407-a405-af10d7efe116" isExpanded="false" absoluteBounds="3.375, 2.25, 2, 0.45">
+      <DataClassMoniker Name="/ProductManagementDataContext/DiscountProduct" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b0f094dd-fa8f-424f-87f7-9de16c1fe3b9" absoluteBounds="3.39, 2.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 2.475); (3.375 : 2.475)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ProductManagementDataContext/ProductInfo/ProductInfo_DiscountProduct" />
+      <nodes>
+        <classShapeMoniker Id="a49e9b5f-eea1-489b-9acc-19a7129e4497" />
+        <classShapeMoniker Id="04b8bef7-9687-4407-a405-af10d7efe116" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 2.3); (3.375 : 2.3)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ProductManagementDataContext/ProductInfo/ProductInfo_DiscountProduct1" />
+      <nodes>
+        <classShapeMoniker Id="a49e9b5f-eea1-489b-9acc-19a7129e4497" />
+        <classShapeMoniker Id="04b8bef7-9687-4407-a405-af10d7efe116" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="7ae8af5c-e116-494e-a8d8-fca19d08cdf3" isExpanded="false" absoluteBounds="3.375, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/ProductManagementDataContext/Cart" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cc5adba9-f4ab-428b-b7bc-6e122702495d" absoluteBounds="3.39, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8481f92d-5734-4a06-bcf8-18209e670704" isExpanded="false" absoluteBounds="3.375, 1.5, 2, 0.45">
+      <DataClassMoniker Name="/ProductManagementDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="45a88c5e-f217-4b5f-9fb6-07f6c5651f41" absoluteBounds="3.39, 1.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

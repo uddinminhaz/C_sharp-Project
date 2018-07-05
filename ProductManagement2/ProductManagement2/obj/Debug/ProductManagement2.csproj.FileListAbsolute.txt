@@ -1,0 +1,144 @@
+c:\users\pc\documents\visual studio 2012\Projects\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe
+c:\users\pc\documents\visual studio 2012\Projects\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.pdb
+c:\users\pc\documents\visual studio 2012\Projects\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.exe
+c:\users\pc\documents\visual studio 2012\Projects\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.pdb
+c:\users\pc\documents\visual studio 2012\Projects\ProductManagement2\ProductManagement2\bin\Debug\ProdectM.mdf
+c:\users\pc\documents\visual studio 2012\Projects\ProductManagement2\ProductManagement2\bin\Debug\ProdectM_log.ldf
+C:\Users\PC\Documents\Visual Studio 2012\Projects\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Registration.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Information.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Login.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.UserHome.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.HomeAdmin.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe.config
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.exe
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.pdb
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM.mdf
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM_log.ldf
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.pdb
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Registration.resources
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.HomeAdmin.resources
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.UserHome.resources
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Information.resources
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Login.resources
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Properties.Resources.resources
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.CustomerDetails.resources
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddProduct.resources
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddAdmin.resources
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.EditProfile.resources
+C:\Users\PC\Desktop\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csprojResolveAssemblyReference.cache
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe.config
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.exe
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.pdb
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM.mdf
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM_log.ldf
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.pdb
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csprojResolveAssemblyReference.cache
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddAdmin.resources
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddProduct.resources
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.EditProfile.resources
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Registration.resources
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.HomeAdmin.resources
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.UserHome.resources
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Information.resources
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Login.resources
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Properties.Resources.resources
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csproj.GenerateResource.Cache
+C:\Users\Imran Imo\Downloads\C#\Projects\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.UpdateAdmin.resources
+H:\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe.config
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.exe
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.pdb
+H:\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM.mdf
+H:\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM_log.ldf
+H:\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe
+H:\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.pdb
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csprojResolveAssemblyReference.cache
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddAdmin.resources
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddProduct.resources
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.EditProfile.resources
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Registration.resources
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.HomeAdmin.resources
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.UpdateAdmin.resources
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.UserHome.resources
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Information.resources
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Login.resources
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Properties.Resources.resources
+H:\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe.config
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.exe
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.pdb
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM.mdf
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM_log.ldf
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.pdb
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddAdmin.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddProduct.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.EditProfile.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Registration.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.HomeAdmin.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.UserHome.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Information.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Login.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Properties.Resources.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.DeleteAdmin.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AdminHome.resources
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Admin_Password.resources
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe.config
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.exe
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.pdb
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM.mdf
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM_log.ldf
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.pdb
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csprojResolveAssemblyReference.cache
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddAdmin.resources
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddProduct.resources
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Admin_Password.resources
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AdminHome.resources
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.DeleteAdmin.resources
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Registration.resources
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.UserHome.resources
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Login.resources
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Properties.Resources.resources
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csproj.GenerateResource.Cache
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\PdfSharp.dll
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\Imran Imo\Desktop\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe.config
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.exe
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.pdb
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM.mdf
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProdectM_log.ldf
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.exe
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\ProductManagement2.pdb
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csprojResolveAssemblyReference.cache
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddAdmin.resources
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AddProduct.resources
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Admin_Password.resources
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.AdminHome.resources
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.DeleteAdmin.resources
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Registration.resources
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.UserHome.resources
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Login.resources
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.Properties.Resources.resources
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.csproj.GenerateResource.Cache
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.DeleteProduct.resources
+C:\Users\Imran Imo\Desktop\projectimo2\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\obj\Debug\ProductManagement2.User_passwordChange.resources

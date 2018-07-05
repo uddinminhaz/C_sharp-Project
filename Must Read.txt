@@ -1,0 +1,10 @@
+please change tha database link -
+
+Example:-@"Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\PC\Desktop\project\C# project\projectimo1\projectimo\Project\ProductManagement2\ProductManagement2\ProdectM.mdf;Integrated Security=True;Connect Timeout=30"
+1. change according to your pc database file
+2. add it with visual studio
+3.run
+
+* just for review the project Open= C#project picture file.
+
+**Thank you **
